@@ -6,6 +6,6 @@ public class HomeLoanTestScript1 {
 	@Test
 	public void homeloan() {
 	System.out.println("homeloan functionality");
-
+         System.out.println("homeloan functionality steps");
 }
 }
